@@ -10,6 +10,8 @@ The dataset is too large for Github. You can download it here with this URL: htt
 Directly run through the ‘Sandwich_Transformer’ notebook to train the transformer model and using ‘eval’ notebook to get the final results.
 
 reference:
+SmileEnumerator is from [SMILES-enumeration](https://github.com/EBjerrum/SMILES-enumeration) by E. J. Bjerrum.
+We modeled pytorch's implementation of transformer to implement our own Sandwich Transformer
 
 https://github.com/EBjerrum/SMILES-enumeration
 https://pytorch.org/docs/stable/_modules/torch/nn/modules/transformer.html#Transformer
